@@ -13,3 +13,4 @@
 - [剑指offer -- JavaScript 版题解](https://www.jianshu.com/p/d50b839f2d5b)
 - [一杯茶的时间，上手 Express 框架开发](https://www.v2ex.com/t/664522#reply12)
 - [Vue调试神器vue-devtools安装](https://www.jianshu.com/p/63f09651724c)
+- [JavaScript刷完了剑指offer](https://www.nowcoder.com/discuss/101711)
